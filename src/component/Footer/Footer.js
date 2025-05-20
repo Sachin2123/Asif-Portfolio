@@ -23,7 +23,7 @@ const Footer = () => {
         }}
       >
         <p className="text-gray-400 text-sm">
-          © {new Date().getFullYear()} Sachin Vishwakarma All Rights Reserved.
+          © {new Date().getFullYear()} Asif Ansari All Rights Reserved.
         </p>
       </div>
     </footer>
